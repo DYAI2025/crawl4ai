@@ -1,0 +1,3 @@
+interface:
+  display_name: "Crawl4AI Operator"
+  short_description: "Bounded web crawling to Markdown, files, links, and structured JSON."
